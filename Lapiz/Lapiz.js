@@ -10,16 +10,16 @@ ctx.fill()
 ctx.fillStyle = "#94672C"
 ctx.strokeStyle = "#663300"
 ctx.beginPath()
-ctx.moveTo(250,300)
-ctx.lineTo(250,300)
+ctx.moveTo(200,250)
+ctx.lineTo(235,325)
 ctx.lineTo(270,250)
 ctx.lineTo(200,250)
 ctx.stroke()
 ctx.fill()
 
 ctx.beginPath()
-ctx.moveTo(260, 55)
-ctx.lineTo(260, 255)
+ctx.moveTo(260, 50)
+ctx.lineTo(260, 250)
 ctx.stroke()
 ctx.fill()
 
